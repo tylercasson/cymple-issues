@@ -1,7 +1,7 @@
 
 
 <h1>
-    <img src="https://raw.githubusercontent.com/tylercasson/cymple-issues/master/assets/icon-circle-outline.png" style="height: 1.75em; vertical-align: middle;"> 
+    <img src="https://raw.githubusercontent.com/tylercasson/cymple-issues/master/assets/icon-circle-outline.png" style="vertical-align: middle;" width="64"> 
     <span>Cymple Issue Tracker</span>
 </h1>
 
