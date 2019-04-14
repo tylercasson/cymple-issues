@@ -5,7 +5,7 @@
     </a>
 </center>
 
-# Cymple Issue Tracker
+# Issue Tracker
 
 Welcome to the Issue Tracker for Cymple Bot, a bot for Discord
 
