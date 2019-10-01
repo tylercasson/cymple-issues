@@ -1,9 +1,9 @@
 
-<center>
+<p align="center">
     <a href="https://cymple.af">
         <img src="https://raw.githubusercontent.com/tylercasson/cymple-issues/master/assets/banner.svg?sanitize=true" width="70%" alt="Cymple Bot" >
     </a>
-</center>
+</p>
 
 # Issue Tracker
 
