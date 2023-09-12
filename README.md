@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://cymple.af">
+    <a href="https://cymple.gg">
         <img src="https://raw.githubusercontent.com/tylercasson/cymple-issues/master/assets/banner.svg?sanitize=true" width="70%" alt="Cymple Bot" >
     </a>
 </p>
